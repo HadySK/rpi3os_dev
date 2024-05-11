@@ -1,0 +1,6 @@
+#arm_32bit=1
+uart_2ndstage=1
+dtoverlay=miniuart-bt
+
+[pi3]
+kernel=kernel8-rpi3.img
